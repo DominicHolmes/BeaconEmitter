@@ -25,6 +25,7 @@
 #import <IOBluetooth/IOBluetooth.h>
 
 #import "BNMBeaconRegion.h"
+#import <CoreBluetooth/CoreBluetooth.h>
 
 @interface BNMAppDelegate () <CBPeripheralManagerDelegate>
 
